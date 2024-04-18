@@ -28,7 +28,6 @@ This commands includes
 
 ## PROGRAM:
 ## Ping Command:
-
 ## CLIENT:
 ```
 import socket
@@ -43,7 +42,6 @@ while True:
         c.send(str(ping(hostname, verbose=False)).encode())
     except KeyError:
         c.send("Not Found".encode())
-
 ```
 ## SERVER:
 ```
@@ -55,7 +53,6 @@ while True:
     s.send(ip.encode())
     print(s.recv(1024).decode())
 ```
-
 ## Tracert Command:
 ```
 from scapy.all import*
