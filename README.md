@@ -68,7 +68,7 @@ print(result,unans)
 ## Ping Command:
 ![Screenshot 2024-04-06 093832](https://github.com/ANU23000217/4.Execution_of_NetworkCommends/assets/139117108/271abaea-5705-4a3a-9c4a-1ce5c17b8c41)
 
-## TracertCommand:
+## Tracert Command:
 ![Screenshot 2024-04-18 205544](https://github.com/ANU23000217/4.Execution_of_NetworkCommends/assets/139117108/785a31e7-41c5-43b0-a47d-39f00af77ac2)
 
 ## Result:
