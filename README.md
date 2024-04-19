@@ -1,6 +1,4 @@
 # Ex-4 Execution_of_NetworkCommands
-## Register Number: 212223040001
-## Name: H. AARON
 ## AIM :
 Use of Network commands in Real Time environment
 ## Software : 
